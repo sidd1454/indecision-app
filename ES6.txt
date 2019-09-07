@@ -1,0 +1,8 @@
+import validator from 'validator';
+
+CONSOLE
+--------
+yarn add validator@8.0.0
+yarn add react@16.0.0 react-dom@16.0.0
+yarn add babel-core@6.25.0 babel-loader@7.1.1
+yarn add babel-plugin-transform-class-properties@6.24.1
